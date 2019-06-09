@@ -1,2 +1,2 @@
 # hello-world
-code for love!
+coding for love!
